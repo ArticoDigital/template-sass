@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="default" type="js.build_tools.gulp" factoryName="Gulp.js" editBeforeRun="true">
+    <node-interpreter>project</node-interpreter>
+    <node-options />
+    <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+    <tasks>
+      <task>demo</task>
+    </tasks>
+    <arguments />
+    <envs />
+    <method />
+  </configuration>
+</component>
